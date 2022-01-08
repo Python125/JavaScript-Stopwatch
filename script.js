@@ -10,7 +10,7 @@ window.onload = function(){
 
     buttonStart.addEventListener('click', () => {
         clearInterval(Interval);
-        Interval = setInterval(startTimer, 10);  // millisecond 10 = 0.01 second
+        Interval = setInterval(startTimer, 10);
     });
 
     buttonStop.addEventListener('click', () => {
