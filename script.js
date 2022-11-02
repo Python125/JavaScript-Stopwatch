@@ -1,12 +1,12 @@
 window.onload = function(){
-    var seconds = 00;
-    var tens = 00;
-    var OutputSeconds = document.getElementById("second");
-    var OutputTens = document.getElementById("tens");
-    var buttonStart = document.getElementById("btn-start");
-    var buttonStop = document.getElementById("btn-stop");
-    var buttonReset = document.getElementById("btn-reset");
-    var Interval;
+    let seconds = 00;
+    let tens = 00;
+    let OutputSeconds = document.getElementById("second");
+    let OutputTens = document.getElementById("tens");
+    let buttonStart = document.getElementById("btn-start");
+    let buttonStop = document.getElementById("btn-stop");
+    let buttonReset = document.getElementById("btn-reset");
+    let Interval;
 
     buttonStart.addEventListener('click', () => {
         clearInterval(Interval);
