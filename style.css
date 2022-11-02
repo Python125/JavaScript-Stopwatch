@@ -1,7 +1,7 @@
 body{
     margin: 0%;
     padding: 0%;
-    background: linear-gradient(to right, #ebe718, #f08914);
+    background: linear-gradient(to right, #ffe818, #fd9013);
     overflow: hidden;
 }
 .container{
@@ -10,7 +10,7 @@ body{
 }
 h1{
     font-size: 4em;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
     color: rgb(255, 0, 0);
 }
 #time{
@@ -30,7 +30,7 @@ button{
 button:hover{
     cursor: pointer;
     background-color: transparent;
-    color: #ffff;
+    color: rgb(0, 0, 0);
     transition: 0.4s;
     border: none;
 }
