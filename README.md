@@ -1,1 +1,1 @@
-# JavaScriptStopwatch
+# JavaScript-Stopwatch
