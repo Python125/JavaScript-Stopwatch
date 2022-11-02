@@ -1,7 +1,7 @@
 body{
     margin: 0%;
     padding: 0%;
-    background: linear-gradient(to right, #ffe818, #fd9013);
+    background: linear-gradient(to right, #ffbb00, #ff8800);
     overflow: hidden;
 }
 .container{
@@ -15,12 +15,14 @@ h1{
 }
 #time{
     font-size: 5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
     color: rgb(255, 0, 0);
 }
 button{
     border: none;
     padding: 18px 10px;
     font-size: 1.5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
     width: 180px;
     margin: 10px;
     border-radius: 15px;
