@@ -1,7 +1,7 @@
 body{
     margin: 0%;
     padding: 0%;
-    background: linear-gradient(to right, #ffbb00, #ff8800);
+    background: linear-gradient(to right, #00d9ff, #01ff89);
     overflow: hidden;
 }
 .container{
@@ -9,30 +9,30 @@ body{
     text-align: center;
 }
 h1{
-    font-size: 4em;
-    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
-    color: rgb(255, 0, 0);
+    font-size: 3.5em;
+    font-family: Verdana, sans-serif;
+    color: rgb(0, 17, 255);
 }
 #time{
     font-size: 5em;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
-    color: rgb(255, 0, 0);
+    font-family: Verdana, sans-serif;
+    color: rgb(0, 17, 255);
 }
 button{
     border: none;
     padding: 18px 10px;
     font-size: 1.5em;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-family: Verdana, sans-serif;
     width: 180px;
     margin: 10px;
     border-radius: 15px;
-    color: #ff0000;
+    color: rgb(1, 58, 143);
     font-weight: bold;
 }
 button:hover{
     cursor: pointer;
     background-color: transparent;
-    color: rgb(0, 0, 0);
+    color: black;
     transition: 0.4s;
     border: none;
 }
